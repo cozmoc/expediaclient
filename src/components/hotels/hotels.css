@@ -1,0 +1,9 @@
+div.portfolio-item {
+  margin-top: 15px;
+}
+.card {
+	width: 300px;
+}
+img.card-img-top.hotel-img {
+    height: 200px;
+}
